@@ -2,38 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2deec8aa-44ef-4d47-a8c5-ecd304d43263" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Administrator.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/FactoryPattern.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/PizzaTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/material/Cheese.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/material/Clams.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/material/Dough.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/material/FreshClams.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/material/Garlic.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/material/MarinaraSauce.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/material/Mushroom.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/material/NYPizzaIngredientFactory.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/material/Onion.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/material/Pepperoni.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/material/PizzaIngredientFactory.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/material/ReggianoCheese.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/material/Sauce.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/material/SlicedPepperoni.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/material/ThinCrustDough.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/material/Veggies.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/pizza/CheesePizza.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/pizza/ClamPizza.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/pizza/NYStyleCheesePizza.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/pizza/NYStyleClamPizza.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/pizza/NYStylePepperoniPizza.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/pizza/NYStyleVeggiePizza.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/pizza/Pizza.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/pizza/SimplePizzaFactory.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/pizza/VeggiePizza.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/store/NYPizzaStore.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/store/PizzaStore.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/observerPattern/ObserverPattern.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/observerPattern/ObserverPattern.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/singletonPattern/SingletonPattern.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/singletonPattern/TypeOne.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/singletonPattern/TypeTwo.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -64,11 +36,44 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FactoryPattern.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FactoryPattern.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/FactoryPattern.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="656">
-              <caret line="42" column="42" lean-forward="false" selection-start-line="42" selection-start-column="42" selection-end-line="42" selection-end-column="42" />
+            <state relative-caret-position="371">
+              <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="34" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SingletonPattern.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/singletonPattern/SingletonPattern.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="51" lean-forward="false" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TypeOne.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/singletonPattern/TypeOne.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+              <folding>
+                <element signature="e#202#203#0" expanded="true" />
+                <element signature="e#233#234#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TypeTwo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/singletonPattern/TypeTwo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -399,9 +404,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/decoratorPattern/Espresso.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/decoratorPattern/HouseBlend.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/decoratorPattern/Beverage.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/decoratorPattern/Tall.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/decoratorPattern/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/decoratorPattern/demo/coffer/Whip.java" />
@@ -450,6 +452,9 @@
         <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/store/NYPizzaStore.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/material/PizzaIngredientFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/FactoryPattern.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/singletonPattern/TypeOne.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/singletonPattern/TypeTwo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/singletonPattern/SingletonPattern.java" />
       </list>
     </option>
   </component>
@@ -548,6 +553,15 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="patterns" type="462c0819:PsiDirectoryNode" />
               <item name="observerPattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Design patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="singletonPattern" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -820,12 +834,12 @@
       <workItem from="1522639879710" duration="15548000" />
       <workItem from="1522741848263" duration="1500000" />
       <workItem from="1522744053163" duration="2122000" />
-      <workItem from="1522746376572" duration="3827000" />
+      <workItem from="1522746376572" duration="8792000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76935000" />
+    <option name="totallyTimeSpent" value="81900000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -894,21 +908,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Desktop/语音SDK_Android/RecognizeDemo/app/src/main/java/com/myhexin/recognize/demo/MainActivity.java" />
-    <entry file="file://$PROJECT_DIR$/gradlew">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Desktop/语音SDK_Android/开放平台（speech.10jqka.com.cn）/Ths_ASR_SDK_Android_2.5.0/语音听写 Android SDK 外部正式环境接口文档.html" />
     <entry file="file://$USER_HOME$/Desktop/语音SDK_Android/正式环境（172.20.231.808088index.html）/Ths_ASR_SDK_Android_2.5.0/语音听写 Android SDK 内部正式环境接口文档.html" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/PizzaTest.java">
@@ -1194,6 +1193,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/singletonPattern/TypeTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/FactoryPattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="34" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/observerPattern/ObserverPattern.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="447">
@@ -1202,10 +1217,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/FactoryPattern.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/singletonPattern/TypeOne.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="656">
-          <caret line="42" column="42" lean-forward="false" selection-start-line="42" selection-start-column="42" selection-end-line="42" selection-end-column="42" />
+        <state relative-caret-position="152">
+          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding>
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#233#234#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/singletonPattern/SingletonPattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="51" lean-forward="false" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
           <folding />
         </state>
       </provider>
