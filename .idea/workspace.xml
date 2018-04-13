@@ -2,21 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2deec8aa-44ef-4d47-a8c5-ecd304d43263" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/iteratorAndCombinationPattern/demo/combination/CompositeIterator.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/iteratorAndCombinationPattern/demo/combination/Menu.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/iteratorAndCombinationPattern/demo/combination/MenuComponent.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/iteratorAndCombinationPattern/demo/combination/MenuItem.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/iteratorAndCombinationPattern/demo/combination/NullIterator.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/iteratorAndCombinationPattern/demo/combination/Test.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/iteratorAndCombinationPattern/demo/combination/Waitress.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/statePattern/StatePattern.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/statePattern/demo/GumballMachine.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/statePattern/demo/GumballMachineOld.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/statePattern/demo/HasQuarterState.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/statePattern/demo/NoQuarterState.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/statePattern/demo/SoldOutState.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/statePattern/demo/SoldState.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/statePattern/demo/State.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/statePattern/demo/Test.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/statePattern/demo/WinnerState.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/iteratorAndCombinationPattern/demo/iterator/DinerMenu$DinerMenuIterator.class" afterPath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/iteratorAndCombinationPattern/demo/iterator/DinerMenu$DinerMenuIterator.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/iteratorAndCombinationPattern/demo/iterator/DinerMenu.class" afterPath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/iteratorAndCombinationPattern/demo/iterator/DinerMenu.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/iteratorAndCombinationPattern/demo/iterator/PancakeHouseMenu.class" afterPath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/iteratorAndCombinationPattern/demo/iterator/PancakeHouseMenu.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/iteratorAndCombinationPattern/demo/iterator/Waitress.class" afterPath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/iteratorAndCombinationPattern/demo/iterator/Waitress.class" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/iteratorAndCombinationPattern/IteratorAndCombinationPattern.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/iteratorAndCombinationPattern/IteratorAndCombinationPattern.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/iteratorAndCombinationPattern/demo/iterator/Waitress.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/iteratorAndCombinationPattern/demo/iterator/Waitress.java" />
-      <change beforePath="$PROJECT_DIR$/test.txt" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -47,21 +43,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="IteratorAndCombinationPattern.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/iteratorAndCombinationPattern/IteratorAndCombinationPattern.java">
+      <file leaf-file-name="TemplateMethodPattern.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/templateMethodPattern/TemplateMethodPattern.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-275">
-              <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+            <state relative-caret-position="352">
+              <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="11" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AdapterPattern.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/adapterPatternAndFacadePatterns/AdapterPattern.java">
+      <file leaf-file-name="StatePattern.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/statePattern/StatePattern.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="62" selection-end-column="10" />
+            <state relative-caret-position="656">
+              <caret line="41" column="31" lean-forward="false" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -382,18 +378,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/singletonPattern/TypeOne.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/singletonPattern/TypeTwo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/singletonPattern/SingletonPattern.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/commandPattern/demo/Light.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/commandPattern/demo/SimpleRemoteControl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/commandPattern/demo/Stereo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/commandPattern/demo/Command.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/commandPattern/demo/LightOffCommand.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/commandPattern/demo/LightOnCommand.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/commandPattern/demo/StereoOnCommand.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/commandPattern/demo/StereoOffCommand.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/commandPattern/demo/NoCommand.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/commandPattern/demo/RemoteControl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/commandPattern/demo/MacroCommand.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/commandPattern/demo/Test.java" />
@@ -433,6 +417,18 @@
         <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/iteratorAndCombinationPattern/demo/combination/Waitress.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/iteratorAndCombinationPattern/demo/combination/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/iteratorAndCombinationPattern/IteratorAndCombinationPattern.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/statePattern/State.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/statePattern/demo/NoQuarterState.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/statePattern/demo/SoldOutState.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/statePattern/demo/SoldState.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/statePattern/demo/old/GumballMachineOld.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/statePattern/demo/GumballMachineOld.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/statePattern/demo/State.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/statePattern/demo/WinnerState.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/statePattern/demo/HasQuarterState.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/statePattern/demo/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/statePattern/demo/GumballMachine.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/statePattern/StatePattern.java" />
       </list>
     </option>
   </component>
@@ -514,7 +510,7 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="adapterPatternAndFacadePatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="statePattern" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Design patterns" type="b2602c69:ProjectViewProjectNode" />
@@ -523,16 +519,7 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="iteratorAndCombinationPattern" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Design patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPatterns" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="iteratorAndCombinationPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="statePattern" type="462c0819:PsiDirectoryNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -542,20 +529,7 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="iteratorAndCombinationPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="combination" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Design patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPatterns" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="iteratorAndCombinationPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="iterator" type="462c0819:PsiDirectoryNode" />
+              <item name="templateMethodPattern" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -585,11 +559,11 @@
       <recent name="E:\DesignPatterns\src\main\java\com\jaaaelu\gzw\design\patterns\test" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.jaaaelu.gzw.design.patterns.statePattern.demo" />
       <recent name="com.jaaaelu.gzw.design.patterns.iteratorAndCombinationPattern.demo.combination" />
       <recent name="com.jaaaelu.gzw.design.patterns.iteratorAndCombinationPattern.demo.iterator" />
       <recent name="com.jaaaelu.gzw.design.patterns.templateMethodPattern.demo" />
       <recent name="com.jaaaelu.gzw.design.patterns.commandPattern.demo" />
-      <recent name="com.jaaaelu.gzw.design.patterns.factoryPattern.demo" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\DesignPatterns" />
@@ -610,32 +584,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.Test (3)">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
-    </configuration>
-    <configuration name="AESDecode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.jaaaelu.gzw.design.patterns.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.jaaaelu.gzw.design.patterns.AESDecode" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Design_patterns_main" />
-      <envs />
     </configuration>
     <configuration name="MenuTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
@@ -702,6 +657,25 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.jaaaelu.gzw.design.patterns.iteratorAndCombinationPattern.demo.combination.Test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Design_patterns_main" />
+      <envs />
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.jaaaelu.gzw.design.patterns.statePattern.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.jaaaelu.gzw.design.patterns.statePattern.demo.Test" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -788,19 +762,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.AESDecode" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Test (1)" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Test (2)" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Test" />
-      <item index="4" class="java.lang.String" itemvalue="Application.MenuTestDrive" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Test (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Test (2)" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Test" />
+      <item index="3" class="java.lang.String" itemvalue="Application.MenuTestDrive" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Test (3)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Test" />
-        <item index="1" class="java.lang.String" itemvalue="Application.MenuTestDrive" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Test (2)" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Test (1)" />
-        <item index="4" class="java.lang.String" itemvalue="Application.AESDecode" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Test (3)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Test" />
+        <item index="2" class="java.lang.String" itemvalue="Application.MenuTestDrive" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Test (2)" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Test (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -835,12 +809,12 @@
       <workItem from="1523153117340" duration="48918000" />
       <workItem from="1523416912108" duration="10480000" />
       <workItem from="1523448495545" duration="2204000" />
-      <workItem from="1523514129348" duration="21290000" />
+      <workItem from="1523514129348" duration="36500000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="170388000" />
+    <option name="totallyTimeSpent" value="185598000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -864,7 +838,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5585464" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.58546436" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6298789" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -943,84 +917,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/adapterPatternAndFacadePatterns/demo/adapter/WildTurkey.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/adapterPatternAndFacadePatterns/demo/adapter/TurkeyAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/adapterPatternAndFacadePatterns/demo/adapter/MallardDuck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/adapterPatternAndFacadePatterns/demo/adapter/Duck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="85" lean-forward="true" selection-start-line="0" selection-start-column="85" selection-end-line="0" selection-end-column="85" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/adapterPatternAndFacadePatterns/demo/facede/Facede.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/adapterPatternAndFacadePatterns/demo/facede/Facede">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="15" lean-forward="true" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/adapterPatternAndFacadePatterns/demo/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/adapterPatternAndFacadePatterns/demo/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-275">
-          <caret line="17" column="30" lean-forward="false" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/observerPattern/ObserverPattern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="38" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/templateMethodPattern/demo/OldCoffee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="7" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/templateMethodPattern/demo/OldTea.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="33" column="43" lean-forward="false" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/templateMethodPattern/demo/Coffee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="52" lean-forward="false" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/templateMethodPattern/demo/Tea.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -1161,14 +1057,6 @@
             <element signature="e#589#590#0" expanded="false" />
             <element signature="e#623#624#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/templateMethodPattern/TemplateMethodPattern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="542">
-          <caret line="75" column="26" lean-forward="false" selection-start-line="75" selection-start-column="26" selection-end-line="75" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1360,18 +1248,177 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/iteratorAndCombinationPattern/IteratorAndCombinationPattern.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/adapterPatternAndFacadePatterns/AdapterPattern.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-275">
-          <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+        <state relative-caret-position="409">
+          <caret line="64" column="25" lean-forward="true" selection-start-line="64" selection-start-column="25" selection-end-line="64" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/adapterPatternAndFacadePatterns/AdapterPattern.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/iteratorAndCombinationPattern/IteratorAndCombinationPattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="53" column="34" lean-forward="true" selection-start-line="53" selection-start-column="34" selection-end-line="53" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/statePattern/demo/GumballMachineOld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="35" lean-forward="false" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/work/yuyin/android_sdk_demo/app/src/main/java/com/myhexin/voiceDemo/MyApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="35" column="74" lean-forward="true" selection-start-line="35" selection-start-column="74" selection-end-line="35" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/statePattern/demo/State.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="38" lean-forward="false" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/360zip$Temp/360$0/WinnerState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="39" lean-forward="false" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/statePattern/demo/NoQuarterState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+          <folding>
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+            <element signature="e#536#537#0" expanded="true" />
+            <element signature="e#581#582#0" expanded="true" />
+            <element signature="e#653#654#0" expanded="true" />
+            <element signature="e#697#698#0" expanded="true" />
+            <element signature="e#756#757#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/statePattern/demo/SoldOutState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+          <folding>
+            <element signature="e#190#191#0" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#365#366#0" expanded="true" />
+            <element signature="e#413#414#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#545#546#0" expanded="true" />
+            <element signature="e#620#621#0" expanded="true" />
+            <element signature="e#664#665#0" expanded="true" />
+            <element signature="e#722#723#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/statePattern/demo/WinnerState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="27" column="30" lean-forward="true" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/statePattern/demo/GumballMachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="29" column="44" lean-forward="false" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
+          <folding>
+            <element signature="e#965#966#0" expanded="true" />
+            <element signature="e#1002#1003#0" expanded="true" />
+            <element signature="e#1074#1075#0" expanded="true" />
+            <element signature="e#1110#1111#0" expanded="true" />
+            <element signature="e#1472#1473#0" expanded="true" />
+            <element signature="e#1506#1507#0" expanded="true" />
+            <element signature="e#1544#1545#0" expanded="true" />
+            <element signature="e#1579#1580#0" expanded="true" />
+            <element signature="e#1619#1620#0" expanded="true" />
+            <element signature="e#1656#1657#0" expanded="true" />
+            <element signature="e#1697#1698#0" expanded="true" />
+            <element signature="e#1735#1736#0" expanded="true" />
+            <element signature="e#1770#1771#0" expanded="true" />
+            <element signature="e#1802#1803#0" expanded="true" />
+            <element signature="e#1839#1840#0" expanded="true" />
+            <element signature="e#1873#1874#0" expanded="true" />
+            <element signature="e#1904#1905#0" expanded="true" />
+            <element signature="e#1932#1933#0" expanded="true" />
+            <element signature="e#1961#1962#0" expanded="true" />
+            <element signature="e#1989#1990#0" expanded="true" />
+            <element signature="e#2028#2029#0" expanded="true" />
+            <element signature="e#2062#2063#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/statePattern/demo/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="10" column="42" lean-forward="true" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/statePattern/demo/HasQuarterState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="33" column="44" lean-forward="false" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="44" />
+          <folding>
+            <element signature="e#296#297#0" expanded="false" />
+            <element signature="e#334#335#0" expanded="false" />
+            <element signature="e#1081#1082#0" expanded="false" />
+            <element signature="e#1139#1140#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/statePattern/demo/SoldState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="32" column="6" lean-forward="true" selection-start-line="32" selection-start-column="6" selection-end-line="37" selection-end-column="9" />
+          <folding>
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#356#357#0" expanded="true" />
+            <element signature="e#404#405#0" expanded="true" />
+            <element signature="e#477#478#0" expanded="true" />
+            <element signature="e#522#523#0" expanded="true" />
+            <element signature="e#604#605#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/templateMethodPattern/TemplateMethodPattern.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
-          <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="62" selection-end-column="10" />
+          <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/statePattern/StatePattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="656">
+          <caret line="41" column="31" lean-forward="false" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
           <folding />
         </state>
       </provider>
