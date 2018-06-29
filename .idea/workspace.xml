@@ -2,151 +2,153 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2deec8aa-44ef-4d47-a8c5-ecd304d43263" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/Hint" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByGoF/Hint" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/Hint" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/adapterPatternAndFacadePatterns/demo/adapter/Duck.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/adapterPatternAndFacadePatterns/demo/adapter/Turkey.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/commandPattern/demo/Command.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/compositePatterns/CompositePatterns.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/compositePatterns/demo/AbstractDuckFactory.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/compositePatterns/demo/CountingDuckFactory.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/compositePatterns/demo/DuckCall.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/compositePatterns/demo/DuckSimulator.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/compositePatterns/demo/Flock.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/compositePatterns/demo/Goose.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/compositePatterns/demo/GooseAdapter.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/compositePatterns/demo/MallardDuck.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/compositePatterns/demo/Observable.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/compositePatterns/demo/Observer.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/compositePatterns/demo/QuackCounter.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/compositePatterns/demo/QuackObservable.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/compositePatterns/demo/Quackable.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/compositePatterns/demo/Quackologist.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/compositePatterns/demo/RubberDuck.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/factoryPattern/demo/PizzaTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/factoryPattern/demo/material/Cheese.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/factoryPattern/demo/material/Clams.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/factoryPattern/demo/material/Dough.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/factoryPattern/demo/material/FreshClams.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/factoryPattern/demo/material/Garlic.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/factoryPattern/demo/material/MarinaraSauce.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/factoryPattern/demo/material/Mushroom.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/factoryPattern/demo/material/Onion.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/factoryPattern/demo/material/Pepperoni.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/factoryPattern/demo/material/ReggianoCheese.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/factoryPattern/demo/material/Sauce.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/factoryPattern/demo/material/SlicedPepperoni.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/factoryPattern/demo/material/ThinCrustDough.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/factoryPattern/demo/material/Veggies.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/factoryPattern/demo/pizza/VeggiePizza.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/iteratorAndCombinationPattern/demo/iterator/Menu.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/patternsInTheRealWorld/PatternsInTheRealWorld.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/abstractFactoryPattern/Info" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/builderPattern/Info" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/chainOfResponsibilityPattern/Info" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/commandPattern/Info" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/factoryMethodPattern/Info" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/interpreterPattern/Info" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/iteratorPattern/Info" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/memoPattern/Info" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/observerPattern/Info" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/prototypePattern/Info" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/singletonPattern/Info" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/singletonPattern/demo/DoubleCheck.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/singletonPattern/demo/Enum.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/singletonPattern/demo/Hungry.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/singletonPattern/demo/InnerStatic.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/singletonPattern/demo/Lazy.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/singletonPattern/demo/SingletonInSerializable.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/singletonPattern/demo/Test.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/sixPrinciples/Info" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/statePattern/Info" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/strategyPattern/Info" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/templateMethodPattern/Info" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/otherPattern/OtherPattern.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/adapterPatternAndFacadePatterns/AdapterPattern.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/adapterPatternAndFacadePatterns/AdapterPattern.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/adapterPatternAndFacadePatterns/demo/Car.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/adapterPatternAndFacadePatterns/demo/Car.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/adapterPatternAndFacadePatterns/demo/Test.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/adapterPatternAndFacadePatterns/demo/Test.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/adapterPatternAndFacadePatterns/demo/adapter/Duck.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/adapterPatternAndFacadePatterns/demo/adapter/MallardDuck.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/adapterPatternAndFacadePatterns/demo/adapter/MallardDuck.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/adapterPatternAndFacadePatterns/demo/adapter/Turkey.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/adapterPatternAndFacadePatterns/demo/adapter/TurkeyAdapter.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/adapterPatternAndFacadePatterns/demo/adapter/TurkeyAdapter.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/adapterPatternAndFacadePatterns/demo/adapter/WildTurkey.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/adapterPatternAndFacadePatterns/demo/adapter/WildTurkey.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/adapterPatternAndFacadePatterns/demo/facede/Facede" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/adapterPatternAndFacadePatterns/demo/facede/Facede" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/chapterOne/DesignPrinciples.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/chapterOne/DesignPrinciples.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/commandPattern/CommandPattern.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/commandPattern/CommandPattern.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/commandPattern/demo/Command.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/commandPattern/demo/Light.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/commandPattern/demo/Light.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/commandPattern/demo/LightOffCommand.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/commandPattern/demo/LightOffCommand.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/commandPattern/demo/LightOnCommand.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/commandPattern/demo/LightOnCommand.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/commandPattern/demo/MacroCommand.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/commandPattern/demo/MacroCommand.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/commandPattern/demo/NoCommand.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/commandPattern/demo/NoCommand.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/commandPattern/demo/RemoteControl.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/commandPattern/demo/RemoteControl.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/commandPattern/demo/SimpleRemoteControl.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/commandPattern/demo/SimpleRemoteControl.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/commandPattern/demo/Stereo.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/commandPattern/demo/Stereo.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/commandPattern/demo/StereoOffCommand.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/commandPattern/demo/StereoOffCommand.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/commandPattern/demo/StereoOnCommand.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/commandPattern/demo/StereoOnCommand.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/commandPattern/demo/Test.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/commandPattern/demo/Test.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/decoratorPattern/DecoratorPattern.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/decoratorPattern/DecoratorPattern.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/decoratorPattern/demo/coffer/Beverage.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/decoratorPattern/demo/coffer/Beverage.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/decoratorPattern/demo/coffer/CondimentDecorator.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/decoratorPattern/demo/coffer/CondimentDecorator.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/decoratorPattern/demo/coffer/Espresso.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/decoratorPattern/demo/coffer/Espresso.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/decoratorPattern/demo/coffer/HouseBlend.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/decoratorPattern/demo/coffer/HouseBlend.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/decoratorPattern/demo/coffer/Mocha.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/decoratorPattern/demo/coffer/Mocha.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/decoratorPattern/demo/coffer/Soy.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/decoratorPattern/demo/coffer/Soy.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/decoratorPattern/demo/coffer/Test.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/decoratorPattern/demo/coffer/Test.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/decoratorPattern/demo/coffer/Whip.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/decoratorPattern/demo/coffer/Whip.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/decoratorPattern/demo/io/InputTest.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/decoratorPattern/demo/io/InputTest.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/decoratorPattern/demo/io/LowerCaseInputStream.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/decoratorPattern/demo/io/LowerCaseInputStream.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/FactoryPattern.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/factoryPattern/FactoryPattern.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/PizzaTest.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/material/Cheese.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/material/Clams.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/material/Dough.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/material/FreshClams.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/material/Garlic.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/material/MarinaraSauce.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/material/Mushroom.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/material/NYPizzaIngredientFactory.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/factoryPattern/demo/material/NYPizzaIngredientFactory.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/material/Onion.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/material/Pepperoni.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/material/PizzaIngredientFactory.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/factoryPattern/demo/material/PizzaIngredientFactory.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/material/ReggianoCheese.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/material/Sauce.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/material/SlicedPepperoni.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/material/ThinCrustDough.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/material/Veggies.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/pizza/CheesePizza.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/factoryPattern/demo/pizza/CheesePizza.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/pizza/ClamPizza.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/factoryPattern/demo/pizza/ClamPizza.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/pizza/NYStyleCheesePizza.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/factoryPattern/demo/pizza/NYStyleCheesePizza.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/pizza/NYStyleClamPizza.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/factoryPattern/demo/pizza/NYStyleClamPizza.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/pizza/NYStylePepperoniPizza.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/factoryPattern/demo/pizza/NYStylePepperoniPizza.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/pizza/NYStyleVeggiePizza.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/factoryPattern/demo/pizza/NYStyleVeggiePizza.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/pizza/Pizza.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/factoryPattern/demo/pizza/Pizza.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/pizza/SimplePizzaFactory.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/factoryPattern/demo/pizza/SimplePizzaFactory.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/pizza/VeggiePizza.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/store/NYPizzaStore.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/factoryPattern/demo/store/NYPizzaStore.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/store/PizzaStore.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/factoryPattern/demo/store/PizzaStore.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/iteratorAndCombinationPattern/IteratorAndCombinationPattern.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/iteratorAndCombinationPattern/IteratorAndCombinationPattern.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/iteratorAndCombinationPattern/demo/combination/CompositeIterator.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/iteratorAndCombinationPattern/demo/combination/CompositeIterator.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/iteratorAndCombinationPattern/demo/combination/Menu.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/iteratorAndCombinationPattern/demo/combination/Menu.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/iteratorAndCombinationPattern/demo/combination/MenuComponent.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/iteratorAndCombinationPattern/demo/combination/MenuComponent.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/iteratorAndCombinationPattern/demo/combination/MenuItem.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/iteratorAndCombinationPattern/demo/combination/MenuItem.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/iteratorAndCombinationPattern/demo/combination/NullIterator.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/iteratorAndCombinationPattern/demo/combination/NullIterator.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/iteratorAndCombinationPattern/demo/combination/Test.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/iteratorAndCombinationPattern/demo/combination/Test.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/iteratorAndCombinationPattern/demo/combination/Waitress.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/iteratorAndCombinationPattern/demo/combination/Waitress.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/iteratorAndCombinationPattern/demo/iterator/DinerMenu.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/iteratorAndCombinationPattern/demo/iterator/DinerMenu.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/iteratorAndCombinationPattern/demo/iterator/Menu.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/iteratorAndCombinationPattern/demo/iterator/MenuItem.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/iteratorAndCombinationPattern/demo/iterator/MenuItem.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/iteratorAndCombinationPattern/demo/iterator/PancakeHouseMenu.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/iteratorAndCombinationPattern/demo/iterator/PancakeHouseMenu.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/iteratorAndCombinationPattern/demo/iterator/Test.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/iteratorAndCombinationPattern/demo/iterator/Test.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/iteratorAndCombinationPattern/demo/iterator/Waitress.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/iteratorAndCombinationPattern/demo/iterator/Waitress.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/observerPattern/ObserverPattern.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/observerPattern/ObserverPattern.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/proxyPattern/ProxyPattern.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/proxyPattern/ProxyPattern.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/proxyPattern/demo/IPerson.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/proxyPattern/demo/IPerson.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/proxyPattern/demo/NonOwnerInvocationHandler.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/proxyPattern/demo/NonOwnerInvocationHandler.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/proxyPattern/demo/OwnerInvocationHandler.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/proxyPattern/demo/OwnerInvocationHandler.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/proxyPattern/demo/PersonImpl.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/proxyPattern/demo/PersonImpl.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/proxyPattern/demo/Test.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/proxyPattern/demo/Test.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/singletonPattern/SingletonPattern.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/singletonPattern/SingletonPattern.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/singletonPattern/TypeOne.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/singletonPattern/TypeOne.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/singletonPattern/TypeTwo.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/singletonPattern/TypeTwo.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/statePattern/StatePattern.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/statePattern/StatePattern.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/statePattern/demo/GumballMachine.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/statePattern/demo/GumballMachine.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/statePattern/demo/GumballMachineOld.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/statePattern/demo/GumballMachineOld.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/statePattern/demo/HasQuarterState.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/statePattern/demo/HasQuarterState.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/statePattern/demo/NoQuarterState.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/statePattern/demo/NoQuarterState.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/statePattern/demo/SoldOutState.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/statePattern/demo/SoldOutState.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/statePattern/demo/SoldState.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/statePattern/demo/SoldState.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/statePattern/demo/State.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/statePattern/demo/State.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/statePattern/demo/Test.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/statePattern/demo/Test.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/statePattern/demo/WinnerState.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/statePattern/demo/WinnerState.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/templateMethodPattern/TemplateMethodPattern.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/templateMethodPattern/TemplateMethodPattern.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/templateMethodPattern/demo/CaffeineBeverage.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/templateMethodPattern/demo/CaffeineBeverage.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/templateMethodPattern/demo/CaffeineBeverageWithHook.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/templateMethodPattern/demo/CaffeineBeverageWithHook.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/templateMethodPattern/demo/Coffee.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/templateMethodPattern/demo/Coffee.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/templateMethodPattern/demo/OldCoffee.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/templateMethodPattern/demo/OldCoffee.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/templateMethodPattern/demo/OldTea.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/templateMethodPattern/demo/OldTea.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/templateMethodPattern/demo/Tea.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/templateMethodPattern/demo/Tea.java" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/adapterPatternAndFacadePatterns/AdapterPattern.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/adapterPatternAndFacadePatterns/demo/Car.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/adapterPatternAndFacadePatterns/demo/Doors.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/adapterPatternAndFacadePatterns/demo/Engine.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/adapterPatternAndFacadePatterns/demo/Key.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/adapterPatternAndFacadePatterns/demo/Test.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/adapterPatternAndFacadePatterns/demo/adapter/Duck.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/adapterPatternAndFacadePatterns/demo/adapter/MallardDuck.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/adapterPatternAndFacadePatterns/demo/adapter/Turkey.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/adapterPatternAndFacadePatterns/demo/adapter/TurkeyAdapter.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/adapterPatternAndFacadePatterns/demo/adapter/WildTurkey.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/chapterOne/DesignPrinciples.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/commandPattern/CommandPattern.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/commandPattern/demo/Command.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/commandPattern/demo/Light.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/commandPattern/demo/LightOffCommand.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/commandPattern/demo/LightOnCommand.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/commandPattern/demo/MacroCommand.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/commandPattern/demo/NoCommand.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/commandPattern/demo/RemoteControl.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/commandPattern/demo/SimpleRemoteControl.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/commandPattern/demo/Stereo.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/commandPattern/demo/StereoOffCommand.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/commandPattern/demo/StereoOnCommand.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/commandPattern/demo/Test.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/compositePatterns/CompositePatterns.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/compositePatterns/demo/AbstractDuckFactory.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/compositePatterns/demo/CountingDuckFactory.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/compositePatterns/demo/DuckCall.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/compositePatterns/demo/DuckSimulator.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/compositePatterns/demo/Flock.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/compositePatterns/demo/Goose.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/compositePatterns/demo/GooseAdapter.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/compositePatterns/demo/MallardDuck.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/compositePatterns/demo/Observable.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/compositePatterns/demo/Observer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/compositePatterns/demo/QuackCounter.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/compositePatterns/demo/QuackObservable.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/compositePatterns/demo/Quackable.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/compositePatterns/demo/Quackologist.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/compositePatterns/demo/RubberDuck.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/decoratorPattern/DecoratorPattern.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/decoratorPattern/demo/coffer/Beverage.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/decoratorPattern/demo/coffer/CondimentDecorator.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/decoratorPattern/demo/coffer/Espresso.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/decoratorPattern/demo/coffer/HouseBlend.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/decoratorPattern/demo/coffer/Mocha.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/decoratorPattern/demo/coffer/Soy.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/decoratorPattern/demo/coffer/Test.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/decoratorPattern/demo/coffer/Whip.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/decoratorPattern/demo/io/InputTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/decoratorPattern/demo/io/LowerCaseInputStream.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/factoryPattern/FactoryPattern.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/PizzaTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/material/Cheese.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/material/Clams.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/material/Dough.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/material/FreshClams.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/material/Garlic.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/material/MarinaraSauce.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/material/Mushroom.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/material/NYPizzaIngredientFactory.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/material/Onion.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/material/Pepperoni.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/material/PizzaIngredientFactory.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/material/ReggianoCheese.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/material/Sauce.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/material/SlicedPepperoni.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/material/ThinCrustDough.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/material/Veggies.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/pizza/CheesePizza.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/pizza/ClamPizza.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/pizza/NYStyleCheesePizza.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/pizza/NYStyleClamPizza.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/pizza/NYStylePepperoniPizza.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/pizza/NYStyleVeggiePizza.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/pizza/Pizza.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/pizza/SimplePizzaFactory.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/pizza/VeggiePizza.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/store/NYPizzaStore.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/factoryPattern/demo/store/PizzaStore.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/iteratorAndCombinationPattern/IteratorAndCombinationPattern.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/iteratorAndCombinationPattern/demo/combination/CompositeIterator.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/iteratorAndCombinationPattern/demo/combination/Menu.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/iteratorAndCombinationPattern/demo/combination/MenuComponent.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/iteratorAndCombinationPattern/demo/combination/MenuItem.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/iteratorAndCombinationPattern/demo/combination/NullIterator.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/iteratorAndCombinationPattern/demo/combination/Test.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/iteratorAndCombinationPattern/demo/combination/Waitress.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/iteratorAndCombinationPattern/demo/iterator/DinerMenu$DinerMenuIterator.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/iteratorAndCombinationPattern/demo/iterator/DinerMenu.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/iteratorAndCombinationPattern/demo/iterator/Menu.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/iteratorAndCombinationPattern/demo/iterator/MenuItem.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/iteratorAndCombinationPattern/demo/iterator/PancakeHouseMenu.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/iteratorAndCombinationPattern/demo/iterator/Test.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/iteratorAndCombinationPattern/demo/iterator/Waitress.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/observerPattern/ObserverPattern.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/proxyPattern/ProxyPattern.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/proxyPattern/demo/IPerson.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/proxyPattern/demo/NonOwnerInvocationHandler.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/proxyPattern/demo/OwnerInvocationHandler.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/proxyPattern/demo/PersonImpl.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/proxyPattern/demo/Test.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/singletonPattern/SingletonPattern.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/singletonPattern/TypeOne.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/singletonPattern/TypeTwo.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/statePattern/StatePattern.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/statePattern/demo/GumballMachine.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/statePattern/demo/GumballMachineOld.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/statePattern/demo/HasQuarterState.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/statePattern/demo/NoQuarterState.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/statePattern/demo/SoldOutState.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/statePattern/demo/SoldState.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/statePattern/demo/State.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/statePattern/demo/Test.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/statePattern/demo/WinnerState.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/templateMethodPattern/TemplateMethodPattern.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/templateMethodPattern/demo/CaffeineBeverage.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/templateMethodPattern/demo/CaffeineBeverageWithHook.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/templateMethodPattern/demo/Coffee.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/templateMethodPattern/demo/OldCoffee.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/templateMethodPattern/demo/OldTea.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/jaaaelu/gzw/design/patterns/templateMethodPattern/demo/Tea.class" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -177,22 +179,55 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PatternsInTheRealWorld.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/patternsInTheRealWorld/PatternsInTheRealWorld.java">
+      <file leaf-file-name="Info" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/observerPattern/Info">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="54" column="61" lean-forward="true" selection-start-line="54" selection-start-column="61" selection-end-line="54" selection-end-column="61" />
+            <state relative-caret-position="304">
+              <caret line="16" column="19" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TemplateMethodPattern.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/templateMethodPattern/TemplateMethodPattern.java">
+      <file leaf-file-name="Info" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/memoPattern/Info">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1235">
-              <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="66" selection-end-column="10" />
+            <state relative-caret-position="323">
+              <caret line="17" column="46" lean-forward="false" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Info" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/iteratorPattern/Info">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="10" lean-forward="false" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Info" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/templateMethodPattern/Info">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="b.class" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Temp/360zip$Temp/360$2/b.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="0" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="0" expanded="true" signature="204:291" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -512,32 +547,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/iteratorAndCombinationPattern/IteratorAndCombinationPattern.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/statePattern/State.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/statePattern/demo/NoQuarterState.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/statePattern/demo/SoldOutState.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/statePattern/demo/SoldState.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/statePattern/demo/old/GumballMachineOld.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/statePattern/demo/GumballMachineOld.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/statePattern/demo/State.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/statePattern/demo/WinnerState.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/statePattern/demo/HasQuarterState.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/statePattern/demo/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/statePattern/demo/GumballMachine.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/statePattern/StatePattern.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/proxyPattern/demo/GumballMachine.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/chapterOne/DesignPrinciples.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/proxyPattern/demo/PersonImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/proxyPattern/demo/IPerson.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/proxyPattern/demo/OwnerInvocationHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/proxyPattern/demo/NonOwnerInvocationHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/proxyPattern/demo/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/proxyPattern/ProxyPattern.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/commandPattern/compositePatterns.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/compositePatterns/compositePatterns.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/compositePatterns/demo/Qucakabble.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/compositePatterns/demo/Qucakable.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/compositePatterns/demo/Goose.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/compositePatterns/demo/GooseAdaper.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/compositePatterns/demo/AbstractDuckFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/compositePatterns/demo/CountingDuckFactory.java" />
@@ -563,6 +572,32 @@
         <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/Hint" />
         <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/Hint" />
         <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/patternsInTheRealWorld/PatternsInTheRealWorld.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/otherPattern/OtherPattern.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/OOSixPrinciples/Info" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/sixPrinciples/demo/Hungry.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/sixPrinciples/demo/Lazy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/sixPrinciples/demo/DoubleCheck.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/singletonPattern/demo/InnerStatic.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/singletonPattern/demo/DoubleCheck.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/singletonPattern/demo/Hungry.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/singletonPattern/demo/Enum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/singletonPattern/demo/Lazy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/singletonPattern/demo/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/singletonPattern/demo/SingletonInSerializable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/builderPattern/Info" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/prototypePattern/Info" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/singletonPattern/Info" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/factoryMethodPattern/Info" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/abstractFactoryPattern/Info" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/strategyPattern/Info" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/statePattern/Info" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/chainOfResponsibilityPattern/Info" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/commandPattern/Info" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/interpreterPattern/Info" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/observerPattern/Info" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/memoPattern/Info" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/iteratorPattern/Info" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/templateMethodPattern/Info" />
       </list>
     </option>
   </component>
@@ -603,6 +638,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -644,7 +680,27 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="versionByHeadFirst" type="462c0819:PsiDirectoryNode" />
+              <item name="versionByAndroid" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Design patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="versionByAndroid" type="462c0819:PsiDirectoryNode" />
+              <item name="interpreterPattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Design patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="versionByAndroid" type="462c0819:PsiDirectoryNode" />
+              <item name="memoPattern" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Design patterns" type="b2602c69:ProjectViewProjectNode" />
@@ -657,7 +713,6 @@
         </subPane>
       </pane>
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -667,21 +722,25 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="SearchEverywhereHistoryKey" value="Arrays&#9;FILE&#9;jar://D:/Java/jdk1.8.0_152/jre/lib/rt.jar!/java/util/Arrays.class&#10;Observer&#9;PSI&#9;JAVA://javafx.beans.binding.BooleanBinding#observer" />
+    <property name="SearchEverywhereHistoryKey" value="ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList&#10;Arrays&#9;FILE&#9;jar://D:/Java/jdk1.8.0_152/jre/lib/rt.jar!/java/util/Arrays.class&#10;Observer&#9;PSI&#9;JAVA://javafx.beans.binding.BooleanBinding#observer" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.jaaaelu.gzw.design.patterns.factoryPattern.demo" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\DesignPatterns" />
+      <recent name="E:\DesignPatterns\src\main" />
+      <recent name="E:\DesignPatterns\src\main\java" />
+      <recent name="E:\DesignPatterns\src" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\DesignPatterns\src\main\java\com\jaaaelu\gzw\design\patterns\versionByGoF" />
-      <recent name="E:\DesignPatterns\src\main\java\com\jaaaelu\gzw\design\patterns\versionByAndroid" />
-      <recent name="E:\DesignPatterns\src\main\java\com\jaaaelu\gzw\design\patterns\proxyPattern\demo" />
-      <recent name="E:\DesignPatterns\src\main\java\com\jaaaelu\gzw\design\patterns\test" />
+      <recent name="E:\DesignPatterns\src\main\java\com\jaaaelu\gzw\design\patterns\versionByAndroid\templateMethodPattern" />
+      <recent name="E:\DesignPatterns\src\main\java\com\jaaaelu\gzw\design\patterns\versionByAndroid\iteratorPattern" />
+      <recent name="E:\DesignPatterns\src\main\java\com\jaaaelu\gzw\design\patterns\versionByAndroid\memoPattern" />
+      <recent name="E:\DesignPatterns\src\main\java\com\jaaaelu\gzw\design\patterns\versionByAndroid\observerPattern" />
+      <recent name="E:\DesignPatterns\src\main\java\com\jaaaelu\gzw\design\patterns\versionByAndroid\commandPattern" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.jaaaelu.gzw.design.patterns.proxyPattern.demo" />
@@ -690,11 +749,8 @@
       <recent name="com.jaaaelu.gzw.design.patterns.iteratorAndCombinationPattern.demo.iterator" />
       <recent name="com.jaaaelu.gzw.design.patterns.templateMethodPattern.demo" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\DesignPatterns" />
-      <recent name="E:\DesignPatterns\src\main" />
-      <recent name="E:\DesignPatterns\src\main\java" />
-      <recent name="E:\DesignPatterns\src" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.jaaaelu.gzw.design.patterns.factoryPattern.demo" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -709,7 +765,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DuckSimulator">
+  <component name="RunManager" selected="Application.Lazy">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -744,6 +800,25 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.jaaaelu.gzw.design.patterns.versionByHeadFirst.compositePatterns.demo.DuckSimulator" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Design_patterns_main" />
+      <envs />
+    </configuration>
+    <configuration name="Lazy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.jaaaelu.gzw.design.patterns.versionByAndroid.singletonPattern.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.jaaaelu.gzw.design.patterns.versionByAndroid.singletonPattern.demo.Lazy" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -905,18 +980,20 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.Test" />
       <item index="1" class="java.lang.String" itemvalue="Application.MenuTestDrive" />
       <item index="2" class="java.lang.String" itemvalue="Application.DesignPrinciples" />
       <item index="3" class="java.lang.String" itemvalue="Application.DuckSimulator" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Lazy" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Application.DuckSimulator" />
-        <item index="1" class="java.lang.String" itemvalue="Application.DesignPrinciples" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Test" />
-        <item index="3" class="java.lang.String" itemvalue="Application.MenuTestDrive" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.Lazy" />
+        <item index="1" class="java.lang.String" itemvalue="Application.DuckSimulator" />
+        <item index="2" class="java.lang.String" itemvalue="Application.DesignPrinciples" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Test" />
+        <item index="4" class="java.lang.String" itemvalue="Application.MenuTestDrive" />
       </list>
     </recent_temporary>
   </component>
@@ -971,12 +1048,26 @@
       <workItem from="1527906999898" duration="4334000" />
       <workItem from="1528110346462" duration="1123000" />
       <workItem from="1528265427537" duration="1943000" />
-      <workItem from="1528270392276" duration="1969000" />
+      <workItem from="1528270392276" duration="8939000" />
+      <workItem from="1528337011558" duration="6804000" />
+      <workItem from="1528868144640" duration="2957000" />
+      <workItem from="1528891761163" duration="1056000" />
+      <workItem from="1528958798059" duration="6174000" />
+      <workItem from="1529029339607" duration="11072000" />
+      <workItem from="1529480301600" duration="1013000" />
+      <workItem from="1529483903748" duration="4981000" />
+      <workItem from="1529634444704" duration="606000" />
+      <workItem from="1529635688536" duration="3144000" />
+      <workItem from="1529656072010" duration="2461000" />
+      <workItem from="1529915231925" duration="5822000" />
+      <workItem from="1530066068495" duration="15991000" />
+      <workItem from="1530236221009" duration="9148000" />
+      <workItem from="1530259166360" duration="2786000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="272136000" />
+    <option name="totallyTimeSpent" value="353121000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -989,7 +1080,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -998,20 +1088,20 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4024226" sideWeight="0.5028612" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4024226" sideWeight="0.49713877" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5585464" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4024226" sideWeight="0.49713877" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24749643" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29542202" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2532189" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19957082" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6931359" sideWeight="0.49713877" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6931359" sideWeight="0.49713877" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1021,6 +1111,37 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4024226" sideWeight="0.5028612" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19957082" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6931359" sideWeight="0.49713877" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5585464" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4024226" sideWeight="0.49713877" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27968526" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -1091,198 +1212,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/proxyPattern/demo/State.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/proxyPattern/demo/SoldState.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/proxyPattern/demo/SoldOutState.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/proxyPattern/demo/NoQuarterState.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/proxyPattern/demo/HasQuarterState.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/proxyPattern/demo/GumballMachine.java" />
-    <entry file="file://D:/work/yuyin/android_sdk_demo/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/statePattern/StatePattern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="22" lean-forward="false" selection-start-line="27" selection-start-column="22" selection-end-line="41" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/360zip$Temp/360$3/c.class" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/360zip$Temp/360$1/c.class" />
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/proxyPattern/ProxyPattern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="54" column="0" lean-forward="true" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/proxyPattern/demo/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="836">
-          <caret line="44" column="47" lean-forward="false" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/proxyPattern/demo/OwnerInvocationHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/proxyPattern/demo/PersonImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/proxyPattern/demo/NonOwnerInvocationHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="8" column="44" lean-forward="false" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/proxyPattern/demo/IPerson.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="54" lean-forward="false" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/compositePatterns/demo/Goose.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/compositePatterns/demo/AbstractDuckFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="50" lean-forward="true" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/work/yuyin/android_sdk_demo/app/src/main/java/com/myhexin/voiceDemo/MyApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="34" column="15" lean-forward="false" selection-start-line="34" selection-start-column="15" selection-end-line="34" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/compositePatterns/demo/QuackObservable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/compositePatterns/demo/CountingDuckFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/compositePatterns/demo/RubberDuck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/compositePatterns/demo/QuackCounter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/compositePatterns/demo/Quackable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/compositePatterns/demo/Observer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/compositePatterns/demo/Quackologist.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-          <folding>
-            <element signature="e#173#174#0" expanded="false" />
-            <element signature="e#251#252#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/compositePatterns/demo/Flock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#330#331#0" expanded="false" />
-            <element signature="e#369#370#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/compositePatterns/demo/Observable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="20" column="24" lean-forward="false" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/compositePatterns/demo/DuckCall.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/compositePatterns/demo/GooseAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/compositePatterns/demo/DuckSimulator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="45" column="26" lean-forward="false" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/compositePatterns/demo/MallardDuck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/compositePatterns/demo/mvc/IBeatModel.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/decoratorPattern/demo/coffer/Espresso.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1368,13 +1297,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/Hint">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="26" lean-forward="true" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/Hint">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1393,14 +1315,258 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1235">
           <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="66" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/patternsInTheRealWorld/PatternsInTheRealWorld.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="54" column="61" lean-forward="true" selection-start-line="54" selection-start-column="61" selection-end-line="54" selection-end-column="61" />
+        <state relative-caret-position="1026">
+          <caret line="54" column="61" lean-forward="false" selection-start-line="54" selection-start-column="61" selection-end-line="54" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/otherPattern/OtherPattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1767">
+          <caret line="93" column="34" lean-forward="false" selection-start-line="93" selection-start-column="34" selection-end-line="93" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/Hint">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="36" lean-forward="true" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/singletonPattern/demo/InnerStatic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="8" column="42" lean-forward="false" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/singletonPattern/demo/Enum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="7" column="5" lean-forward="false" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/singletonPattern/demo/Lazy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="5" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/singletonPattern/demo/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/singletonPattern/demo/Hungry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="2" lean-forward="false" selection-start-line="3" selection-start-column="2" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/singletonPattern/demo/DoubleCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="1" lean-forward="false" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/singletonPattern/demo/SingletonInSerializable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="16" column="30" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/sixPrinciples/Info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="46" column="41" lean-forward="false" selection-start-line="46" selection-start-column="41" selection-end-line="46" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_152/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59717">
+          <caret line="3214" column="16" lean-forward="false" selection-start-line="3214" selection-start-column="16" selection-end-line="3214" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_152/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="355" column="39" lean-forward="false" selection-start-line="355" selection-start-column="39" selection-end-line="355" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/factoryPattern/demo/store/PizzaStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/factoryPattern/demo/pizza/SimplePizzaFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="45" lean-forward="false" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/factoryPattern/demo/store/NYPizzaStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/singletonPattern/Info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/prototypePattern/Info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="14" lean-forward="false" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/factoryMethodPattern/Info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/factoryPattern/demo/PizzaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/factoryPattern/FactoryPattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/factoryPattern/demo/material/NYPizzaIngredientFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByHeadFirst/factoryPattern/demo/pizza/CheesePizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" column="40" lean-forward="false" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/builderPattern/Info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="2" lean-forward="false" selection-start-line="13" selection-start-column="2" selection-end-line="18" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/abstractFactoryPattern/Info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="14" lean-forward="false" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/strategyPattern/Info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/statePattern/Info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="39" lean-forward="false" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/chainOfResponsibilityPattern/Info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/commandPattern/Info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/interpreterPattern/Info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="51" lean-forward="false" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/memoPattern/Info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="46" lean-forward="false" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/observerPattern/Info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="19" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/iteratorPattern/Info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="10" lean-forward="false" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/360zip$Temp/360$2/b.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="0" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="0" expanded="true" signature="204:291" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/design/patterns/versionByAndroid/templateMethodPattern/Info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
           <folding />
         </state>
       </provider>
